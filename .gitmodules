@@ -1,0 +1,3 @@
+[submodule "gittaril"]
+	path = gittaril
+	url = https://github.com/sameer18081995/gittrail.git
